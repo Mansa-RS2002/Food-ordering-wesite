@@ -35,5 +35,5 @@ Responsive Design: Works across desktop, tablet, and mobile screens
 
 Simple Navigation: Easy-to-use interface with clear user flow
 
-(Optional) Backend Integration: Basic backend setup to handle orders (if you used Node.js or another backend)
+Backend Integration: Basic backend setup to handle orders used Node.js 
 
